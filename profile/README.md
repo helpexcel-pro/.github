@@ -2,7 +2,6 @@
 
 # Направления
 [Решения для бизнеса](https://www.helpexcel.pro/industry_solutions)
-
 [Управленческий учёт](https://www.helpexcel.pro/uchet)
 [Оптимизация продаж](https://www.helpexcel.pro/amocrm)
 [Битрикс24 для бизнеса](https://www.helpexcel.pro/bitrix24)
