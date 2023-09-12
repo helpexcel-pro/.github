@@ -1,23 +1,23 @@
 ## HelpExcel.pro Оптимизация и оцифровка вашего бизнеса
 
 # Направления
--[Решения для бизнеса](https://www.helpexcel.pro/industry_solutions)
--[Управленческий учёт](https://www.helpexcel.pro/uchet)
--[Оптимизация продаж](https://www.helpexcel.pro/amocrm)
--[Битрикс24 для бизнеса](https://www.helpexcel.pro/bitrix24)
--[Разработка чат-ботов](http://helpexcel.pro/bots)
--[Дизайн-студия](https://www.helpexcel.pro/design_studio)
--[Образовательная платформа](https://www.helpexcel.pro/smartsheets)
+- [Решения для бизнеса](https://www.helpexcel.pro/industry_solutions)
+- [Управленческий учёт](https://www.helpexcel.pro/uchet)
+- [Оптимизация продаж](https://www.helpexcel.pro/amocrm)
+- [Битрикс24 для бизнеса](https://www.helpexcel.pro/bitrix24)
+- [Разработка чат-ботов](http://helpexcel.pro/bots)
+- [Дизайн-студия](https://www.helpexcel.pro/design_studio)
+- [Образовательная платформа](https://www.helpexcel.pro/smartsheets)
 
 # Статьи
--[Шаблоны для бизнеса](https://www.helpexcel.pro/templates)
--[Обзоры рабочих кейсов](https://www.helpexcel.pro/cases)
--[Блог с полезными статьями](https://www.helpexcel.pro/blog)
+- [Шаблоны для бизнеса](https://www.helpexcel.pro/templates)
+- [Обзоры рабочих кейсов](https://www.helpexcel.pro/cases)
+- [Блог с полезными статьями](https://www.helpexcel.pro/blog)
 
 # Инфо
--[Вакансии](https://www.helpexcel.pro/vacancy)
--[Контакты](http://helpexcel.pro/contacts)
--[Telegram-канал](https://t.me/business_analitics)
+- [Вакансии](https://www.helpexcel.pro/vacancy)
+- [Контакты](http://helpexcel.pro/contacts)
+- [Telegram-канал](https://t.me/business_analitics)
 
 <!--
 
