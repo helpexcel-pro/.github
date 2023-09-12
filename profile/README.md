@@ -1,13 +1,14 @@
 ## HelpExcel.pro Оптимизация и оцифровка вашего бизнеса
 
 # Направления
-[Решения для бизнеса](https://www.helpexcel.pro/industry_solutions)\n
-[Управленческий учёт](https://www.helpexcel.pro/uchet)\n
-[Оптимизация продаж](https://www.helpexcel.pro/amocrm)\n
-[Битрикс24 для бизнеса](https://www.helpexcel.pro/bitrix24)\n
-[Разработка чат-ботов](http://helpexcel.pro/bots)\n
-[Дизайн-студия](https://www.helpexcel.pro/design_studio)\n
-[Образовательная платформа](https://www.helpexcel.pro/smartsheets)\n
+[Решения для бизнеса](https://www.helpexcel.pro/industry_solutions)
+
+[Управленческий учёт](https://www.helpexcel.pro/uchet)
+[Оптимизация продаж](https://www.helpexcel.pro/amocrm)
+[Битрикс24 для бизнеса](https://www.helpexcel.pro/bitrix24)
+[Разработка чат-ботов](http://helpexcel.pro/bots)
+[Дизайн-студия](https://www.helpexcel.pro/design_studio)
+[Образовательная платформа](https://www.helpexcel.pro/smartsheets)
 
 # Статьи
 [Шаблоны для бизнеса](https://www.helpexcel.pro/templates)
